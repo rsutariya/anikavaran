@@ -1,0 +1,13 @@
+future==0.18.2
+numpy==1.18.3
+opencv-python==4.2.0.34
+Pillow==7.1.2
+# PyQt5==5.14.2
+# PyQt5-sip==12.7.2
+# torch==1.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+# torchvision==0.6.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+
+.\torch-1.5.0+cpu-cp37-cp37m-win_amd64.whl
+.\torchvision-0.6.0+cpu-cp37-cp37m-win_amd64.whl
+# https://download.pytorch.org/whl/cpu/torch-1.5.0%2Bcpu-cp37-cp37m-win_amd64.whl
+# https://download.pytorch.org/whl/cpu/torchvision-0.6.0%2Bcpu-cp37-cp37m-win_amd64.whl
